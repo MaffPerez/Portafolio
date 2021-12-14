@@ -9,6 +9,7 @@ import { AboutComponent } from './components/about/about.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { ConnectComponent } from './components/connect/connect.component';
 import { HomeComponent } from './views/home/home.component';
+import { MainComponent } from './components/main/main.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { HomeComponent } from './views/home/home.component';
     AboutComponent,
     ProjectsComponent,
     ConnectComponent,
-    HomeComponent
+    HomeComponent,
+    MainComponent
   ],
   imports: [
     BrowserModule,
