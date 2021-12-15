@@ -1,0 +1,17 @@
+section{
+    height: 80vh;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.img-size{
+    width:200px;
+}
+.all-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:20px;
+}
