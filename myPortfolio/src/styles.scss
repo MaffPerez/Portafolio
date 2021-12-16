@@ -1,10 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+h1{
+    font-family: 'Chewy';
 }

@@ -15,6 +15,10 @@ section{
     flex-direction: column;
     gap:20px;
 }
+figcaption{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+}
 a:hover{
     cursor: pointer;
     // box-shadow: 0 0.4rem 1.4rem 0 #afa4a4;

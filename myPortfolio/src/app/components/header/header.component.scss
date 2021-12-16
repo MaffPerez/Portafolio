@@ -2,9 +2,15 @@
     position:fixed;
     width:100%;
     z-index: 30;
-    padding: 0;
-    
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: rgba(255, 255, 255, 0.8) !important;
 }
-.navbar{
-    background-color: transparent;
+a{
+    color:black !important;
+}
+a:hover{
+    border-bottom: black solid;
+    padding:5px;
 }
