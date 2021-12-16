@@ -15,3 +15,9 @@ section{
     flex-direction: column;
     gap:20px;
 }
+a:hover{
+    cursor: pointer;
+    // box-shadow: 0 0.4rem 1.4rem 0 #afa4a4;
+    transition:all .5s cubic-bezier(.7,0,.3,1);
+    transform: scale(1.1);
+}
